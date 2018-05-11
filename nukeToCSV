@@ -32,3 +32,12 @@ row = name + "," + email + "\n"
 
 csv.write(row)
 
+
+
+
+
+
+i = 0
+while(i<=10):
+    nuke.frame(i)
+    i+=1
